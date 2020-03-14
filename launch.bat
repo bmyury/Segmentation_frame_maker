@@ -1,0 +1,1 @@
+java -jar yuryimagecranking-03112020-withSP.jar

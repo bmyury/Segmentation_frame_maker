@@ -1,0 +1,6 @@
+inputNUC_string	12,1,60
+inputMEM_string	10,2,4;12,2,1;14,4,1;15,4,2
+div_multiplier	1000.0
+sum_scaling_boolean	True
+SQRT transform nuclear boolean	False
+crossdataset_multiplier	1.0
